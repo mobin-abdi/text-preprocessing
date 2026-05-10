@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 
 ## Running the Script
-1. Make sure the childrens_books.csv file is located at Course Materials/Data/childrens_books.csv relative to the script.
+1. Make sure the childrens_books.csv file is located at Course this directory that you are in.
 2. run jupyter-notebook in terminal
 
 ## ✨ Demonstration
