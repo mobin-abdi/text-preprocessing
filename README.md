@@ -11,7 +11,7 @@ The primary goal of this project is to take raw book descriptions and clean them
 
 ## 📈 Data Source
 
-The script utilizes a small dataset of children's book descriptions from the file `Course Materials/Data/childrens_books.csv`. This dataset is used for demonstration purposes.
+The script utilizes a small dataset of children's book descriptions from the file `childrens_books.csv`. This dataset is used for demonstration purposes.
 
 ## 🛠️ Technologies Used
 
